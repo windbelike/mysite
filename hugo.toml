@@ -2,7 +2,7 @@
 # languageCode = 'en-us'
 # title = 'My New Hugo Site'
 # theme = 'ananke'
-baseURL = 'https://mysite-xi-two.vercel.app/'
+baseURL = 'https://windbelike.vercel.app/'
 languageCode = 'en-us'
 title = 'new site ...'
 theme = 'paper'
