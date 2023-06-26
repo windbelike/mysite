@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.serialrick.top/categories/</loc>
+    <loc>https://mysite-xi-two.vercel.app/posts/my-first-post/</loc>
+    <lastmod>2023-06-26T13:43:05+08:00</lastmod>
   </url><url>
-    <loc>https://www.serialrick.top/</loc>
+    <loc>https://mysite-xi-two.vercel.app/</loc>
+    <lastmod>2023-06-26T13:43:05+08:00</lastmod>
   </url><url>
-    <loc>https://www.serialrick.top/tags/</loc>
+    <loc>https://mysite-xi-two.vercel.app/posts/</loc>
+    <lastmod>2023-06-26T13:43:05+08:00</lastmod>
+  </url><url>
+    <loc>https://mysite-xi-two.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://mysite-xi-two.vercel.app/tags/</loc>
   </url>
 </urlset>
